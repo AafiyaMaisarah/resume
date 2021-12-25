@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+.header{
+    display: inline-block;
+    background-color: rgb(23, 23, 39);
+    display:flex;
+   justify-content: space-between; 
+
+}
+.back{
+    background-color:rgb(126, 126, 218);
+}
+
